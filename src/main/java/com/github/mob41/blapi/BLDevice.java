@@ -94,7 +94,7 @@ public abstract class BLDevice implements Closeable {
 
     public static final short DEV_SPMINI = 0x2720;
 
-    public static final short DEV_SP3 = 0x753e;
+    public static final short DEV_SP3 = 0x7546;
 
     public static final short DEV_SPMINI2 = 0x2728;
 
